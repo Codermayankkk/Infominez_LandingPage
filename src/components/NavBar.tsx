@@ -32,7 +32,7 @@ function NavBar() :any
             <img src="./src/images/info_icon.png" />
           </div>
           <div className="mt-5 ml-3">
-            <img src="./src/images/infominez.png" />
+            <img src="../images/infominez.png" />
           </div>
 
           <div className="text-white mt-6 ml-36 font-bold underline underline-offset-4 decoration-green-500">
